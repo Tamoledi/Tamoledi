@@ -1,4 +1,4 @@
-<h3 align="left">Hi there👋 , I'm Tamoledi</h3>
+<h4 align="left">Hi there👋 , I'm Tamoledi</h4>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left"></h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h4 align="left">I code with</h4>
 
 ###
 
