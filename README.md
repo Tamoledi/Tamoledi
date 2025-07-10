@@ -1,4 +1,4 @@
-<h4 align="center">Hi there👋 , I'm Tamoledi</h4>
+<h4 align="center">Hi there👋, I'm Tamoledi</h4>
 
 ###
 
