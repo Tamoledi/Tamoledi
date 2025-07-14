@@ -10,10 +10,6 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2025</p>
-
-###
-
 <h4 align="center">I code with</h4>
 
 ###
