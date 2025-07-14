@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> A Data Scientist based in Johannesburg.<br>I'm looking to collaborate on python projects.</p>
+<p align="center">Data Scientist based in Johannesburg.<br>I'm looking to collaborate on python projects.</p>
 
 ###
 
@@ -27,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
