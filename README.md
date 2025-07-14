@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Data Scientist based in Johannesburg.<br>I'm looking to collaborate on python projects.</p>
+<p align="center"> A Data Scientist based in Johannesburg.<br>I'm looking to collaborate on python projects.</p>
 
 ###
 
